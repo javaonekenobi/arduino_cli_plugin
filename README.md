@@ -12,6 +12,8 @@ to use it with maven, install it then use it in your pom.xml
 
 for example
 
+```
+
 <plugins>
   <plugin>
     <groupId>org.irio</groupId>
@@ -33,4 +35,6 @@ for example
     </configuration>
   </plugin>
 ....
+
+```
           
